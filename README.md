@@ -1,0 +1,2 @@
+# MCQ_Q-A_Generator
+This code basically produces MCQ question paper and its relevant answer sheet both separately. I have used the xlrd module in python and also this has to deal with the randomization function. The data set was already given to me which i am uploading. This is a fun code and i have not shown many variations in the type of the question. i have shown only three variations. though it was a time bound hackathon of 3 hours. And also i had no information about this module so first i had to learn and then implement.
